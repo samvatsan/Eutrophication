@@ -5,4 +5,4 @@ Paper: Developing Artificial Neural Network Models to Predict Eutrophication of 
 
 *Code only partially uploaded - for more information on the ANN models, contact @samvatsan*
 
-Uses: Tensorflow, Keras Sequential, 
+Uses: Tensorflow, Keras Sequential
